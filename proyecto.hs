@@ -154,4 +154,4 @@ cargarEstudiantes = do
                 texto <- hGetContents handle
                 seq (length texto) (return texto)
             return (read contenido :: BaseEstudiantes)
-        else return []1
+        else return []

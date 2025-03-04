@@ -1,1 +1,1 @@
-[Estudiante {idEstudiante = "123", nombre = "juan", horaEntrada = Just 2025-03-03 23:12:21.392447 UTC, horaSalida = Just 2025-03-03 23:12:47.543674 UTC},Estudiante {idEstudiante = "12", nombre = "santiago", horaEntrada = Just 2025-03-03 23:12:29.711401 UTC, horaSalida = Nothing}]
+[Estudiante {idEstudiante = "123", nombre = "juan", horaEntrada = Just 2025-03-04 13:56:14.24251 UTC, horaSalida = Just 2025-03-04 13:56:54.37143 UTC}]
